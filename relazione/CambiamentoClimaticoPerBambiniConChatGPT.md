@@ -4,8 +4,7 @@
 `` Anno Accademico 2022/2023``
 `` Nicolò Debiaggi 908971`` 
 
-# Titolo Progetto d'Esame
-Il cambiamento climatico per bambini con ChatGPT
+# Il cambiamento climatico per bambini con ChatGPT
 
 ## Introduzione
 
