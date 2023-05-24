@@ -24,5 +24,5 @@ P(per favorire distribuzione digitale) \
 N-->P \
 O-->P \
 Q[Definizione dello stile grafico] --> R(regole di impaginazione standard) \
-Q --> S(assenza elementi grafici avanzati) \ 
+Q --> S(assenza elementi grafici avanzati) \
 S--> T(mantenendo rispetto di accessibilità) 
