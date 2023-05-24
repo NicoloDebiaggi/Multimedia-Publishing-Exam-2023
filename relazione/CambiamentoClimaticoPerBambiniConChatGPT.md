@@ -4,7 +4,8 @@
 `` Anno Accademico 2022/2023``
 `` Nicolò Debiaggi 908971`` 
 
-# Il cambiamento climatico per bambini con ChatGPT
+# Titolo Progetto d'Esame
+Il cambiamento climatico per bambini con ChatGPT
 
 ## Introduzione
 
@@ -51,6 +52,8 @@ Per descrivere il *flusso di gestione documentale* ho utilizzato il linguaggio M
 ## Tecnologie adottate
 
 Le tecnologie adottate sono Markdown e ePub (tramite conversione con pandoc del documento in formato markdown). L'utilizzo di Markdown ha abbattuto molto i tempi di gestione documentale essendo un linguaggio di formattazione di testo molto intuitivo e rapido da utilizzare. La tecnologia ePub ha invece supportato la diffusione digitale del testo e quindi ha permesso di raggiungere un pubblico più ampio portando un aumento di qualità nella versione digitale del documento.
+
+Ho notato come l'utilizzo di ChatGPT per la conversione dei file direttamente da formato markdown a formati html e ePub mi abbia permesso di confrontare la qualità del mio flusso di lavoro rispetto a quella ottenuta con l'utilizzo di pandoc. Le due modalità pressochè si equivalgono, sicuramente l'utilizzo di un'intelligenza aritificiale rende più user-friendly la conversione in qualunque formato ma tramite pandoc si nota una differenza sostanziale in termini di velocità di conversione.
 
 Inoltre è presente una [repository github](https://github.com/NicoloDebiaggi/Esame-editoria-digitale) con tutti i documenti nei vari formati e gli script utilizzati all'interno della relazione.
 
