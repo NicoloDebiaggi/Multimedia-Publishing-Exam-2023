@@ -25,4 +25,4 @@ N-->P \
 O-->P \
 Q[Definizione dello stile grafico] --> R(regole di impaginazione standard) \
 Q --> S(assenza elementi grafici avanzati) \ 
-S--> T(mantenendo rispetto di accessibilità) \ 
+S--> T(mantenendo rispetto di accessibilità) 
