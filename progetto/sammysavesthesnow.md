@@ -1,5 +1,5 @@
 # Sammy Saves the Snow: A Fun Story About Climate Change
-<div align="center">
+
 Once upon a time, in the frosty Arctic lands,
 Lived a friendly polar bear named Sammy, oh so grand!
 He loved playing in the snow, sliding down icy hills,
