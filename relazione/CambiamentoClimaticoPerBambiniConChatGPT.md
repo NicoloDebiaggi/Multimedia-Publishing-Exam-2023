@@ -61,9 +61,9 @@ Il risultato ottenuto è il libro per bambini "Sammy saves the snow" che parla d
 
 ## Bibliografia e sitografia
 
-ChatGPT
-Google Trends
-un.org
-nasa.gov
-wikipedia.org
-bbc.com
+[ChatGPT](https://chat.openai.com/) \
+[Google Trends](https://trends.google.it/trends/) \
+[un](un.org) \
+[nasa](nasa.gov) \
+[wikipedia](wikipedia.org) \
+[bbc](bbc.com)
