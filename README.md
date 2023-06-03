@@ -4,6 +4,7 @@
 Implementazione di un'intelligenza artificiale ([ChatGPT](https://chat.openai.com/)) per la realizzazione di un libro per bambini che tratta un tema di attualità come il cambiamento climatico.
 
 ## Tools utilizzati
+- Google Trends (individuazione di un argomento di tendenza)
 - ChatGPT (generazione e revisione testo)
 - Visual Studio Code (scrittura relazione in formato markdown)
 - Linguaggio Mermaid (rappresentazione di grafici riguardanti la produzione)
@@ -13,7 +14,7 @@ Implementazione di un'intelligenza artificiale ([ChatGPT](https://chat.openai.co
 
 ## Pipeline delle dipendenze di produzione
 - Progetto \
-ChatGPT |> Gencraft |> Canva |> Pandoc 
+Google Trends |> ChatGPT |> Gencraft |> Canva |> Pandoc 
 - Relazione \
 Visual Studio Code |> stesura in linguaggio Markdown e Mermaid |> Repository Github
 
