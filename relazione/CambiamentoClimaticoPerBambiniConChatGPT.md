@@ -61,6 +61,8 @@ Inoltre è presente una [repository github](https://github.com/NicoloDebiaggi/Es
 
 Il risultato ottenuto è il libro per bambini "Sammy saves the snow" che parla di un orso polare che si ritrova ad affrontare e superare il tema dello scioglimento dei ghiacciai e introduce l'argomento delle fonti di energia rinnovabili. Per ottenere un risultato soddisfacente ci sono volute diverse revisioni ma ciò ha permesso di raggiungere gli obiettivi prefissati. La più grande limitazione è l'assenza di immagini in quanto ChatGPT è in grado di generare solo la parte testuale e non quella grafica.
 
+---
+
 ## Bibliografia e sitografia
 
 [ChatGPT](https://chat.openai.com/) \
@@ -69,3 +71,7 @@ Il risultato ottenuto è il libro per bambini "Sammy saves the snow" che parla d
 [nasa](nasa.gov) \
 [wikipedia](wikipedia.org) \
 [bbc](bbc.com)
+ 
+ ---
+ 
+ author @Nicolò Debiaggi
