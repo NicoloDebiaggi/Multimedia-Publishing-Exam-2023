@@ -17,7 +17,7 @@ L'obiettivo del lavoro è testare la capacità di un'intelligenza artificiale, (
 - Progetto \
 Google Trends |> ChatGPT |> Gencraft |> Canva |> Pandoc 
 - Relazione \
-Visual Studio Code |> stesura in linguaggio Markdown e Mermaid |> Repository Github
+Visual Studio Code |> stesura in linguaggio Markdown e Mermaid |> Pandoc |> Repository Github
 
 ---
 
