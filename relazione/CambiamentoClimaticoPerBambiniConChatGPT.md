@@ -74,4 +74,4 @@ Il risultato ottenuto è il libro per bambini "Sammy saves the snow" che parla d
  
  ---
  
- @author Nicolò Debiaggi
+ @author [Nicolò Debiaggi](https://github.com/NicoloDebiaggi)
