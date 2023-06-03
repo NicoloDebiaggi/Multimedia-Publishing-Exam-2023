@@ -12,16 +12,16 @@ Canva (inserimento degli elementi grafici all'interno del prodotto e correzioni 
 Pandoc (conversione in formati HTML5, EPUB per la distribuzione digitale)
 
 ## Pipeline delle dipendenze di produzione
--Progetto \
+- Progetto \
 ChatGPT |> Gencraft |> Canva |> Pandoc \
--Relazione \
+- Relazione \
 Visual Studio Code |> linguaggio Markdown e Mermaid |> Repository Github
 
 ---
 
 ***NOTE***
--Impossibilità di implementare il prodotto finale tramite interfaccia API di una IA
--Impossibilità di creare completa automatizzazione del processo del prodotto
+- Impossibilità di implementare il prodotto finale tramite interfaccia API di una IA
+- Impossibilità di creare completa automatizzazione del processo del prodotto
 
 ---
 @author Nicolò Debiaggi
