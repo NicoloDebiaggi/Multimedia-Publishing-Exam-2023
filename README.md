@@ -24,4 +24,4 @@ Visual Studio Code |> linguaggio Markdown e Mermaid |> Repository Github
 - Impossibilità di creare completa automatizzazione del processo del prodotto
 
 ---
-@author Nicolò Debiaggi
+ @author [Nicolò Debiaggi](https://github.com/NicoloDebiaggi)
