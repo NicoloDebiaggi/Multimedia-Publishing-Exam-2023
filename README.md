@@ -11,7 +11,7 @@ Gencraft (IA per generare elementi grafici relativi al prodotto)
 Canva (inserimento degli elementi grafici all'interno del prodotto e correzioni grafiche)
 Pandoc (conversione in formati HTML5, EPUB per la distribuzione digitale)
 
-##Pipeline delle dipendenze di produzione
+## Pipeline delle dipendenze di produzione
 -Progetto
 ChatGPT |> Gencraft |> Canva |> Pandoc
 -Relazione
