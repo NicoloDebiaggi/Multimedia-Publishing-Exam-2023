@@ -15,7 +15,7 @@ Implementazione di un'intelligenza artificiale (ChatGPT) per la realizzazione di
 - Progetto \
 ChatGPT |> Gencraft |> Canva |> Pandoc 
 - Relazione \
-Visual Studio Code |> linguaggio Markdown e Mermaid |> Repository Github
+Visual Studio Code |> stesura in linguaggio Markdown e Mermaid |> Repository Github
 
 ---
 
