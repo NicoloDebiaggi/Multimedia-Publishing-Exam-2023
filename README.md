@@ -1,7 +1,7 @@
 # Editoria-digitale
 [Repository GitHub](https://github.com/NicoloDebiaggi/Esame-editoria-digitale/tree/main) utilizzata per rendere disponibili tutti i documenti, nei rispettivi formati, e gli script implementati all'interno della relazione
 ## Obiettivo
-Implementazione di IA (ChatGPT) per la realizzazione di un libro per bambini che tratta un tema di attualità come il cambiamento climatico.
+Implementazione di un'intelligenza artificiale (ChatGPT) per la realizzazione di un libro per bambini che tratta un tema di attualità come il cambiamento climatico.
 
 ## Tools utilizzati
 - ChatGPT (generazione e revisione testo)
