@@ -13,7 +13,7 @@ Pandoc (conversione in formati HTML5, EPUB per la distribuzione digitale)
 
 ## Pipeline delle dipendenze di produzione
 -Progetto
-ChatGPT |> Gencraft |> Canva |> Pandoc
+ChatGPT |> Gencraft |> Canva |> Pandoc \
 -Relazione
 Visual Studio Code |> linguaggio Markdown e Mermaid |> Repository Github
 
