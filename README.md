@@ -1,5 +1,5 @@
 # Il cambiamento climatico per bambini con ChatGPT
-[Repository GitHub](https://github.com/NicoloDebiaggi/Esame-editoria-digitale/tree/main) utilizzata per rendere disponibili tutti i documenti, nei rispettivi formati, e gli script implementati all'interno della relazione
+É presente una [Repository GitHub](https://github.com/NicoloDebiaggi/Esame-editoria-digitale/tree/main) utilizzata per rendere disponibili tutti i documenti, nei rispettivi formati, e gli script implementati all'interno della relazione
 
 ## Obiettivo
 L'obiettivo del lavoro è testare la capacità di un'intelligenza artificiale, ([ChatGPT](https://chat.openai.com/)), nella generazione semiautomatica di un testo indirizzato a un pubblico di bambini ma che, allo stesso tempo, possa avere una qualità di stesura e narrazione pari a quella già presente sul rispettivo mercato.
