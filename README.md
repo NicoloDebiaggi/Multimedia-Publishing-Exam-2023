@@ -1,4 +1,4 @@
-# Editoria digitale - Il cambiamento climatico per bambini con ChatGPT
+# Il cambiamento climatico per bambini con ChatGPT
 [Repository GitHub](https://github.com/NicoloDebiaggi/Esame-editoria-digitale/tree/main) utilizzata per rendere disponibili tutti i documenti, nei rispettivi formati, e gli script implementati all'interno della relazione
 
 ## Obiettivo
