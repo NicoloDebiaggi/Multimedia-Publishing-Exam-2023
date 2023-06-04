@@ -1,3 +1,7 @@
+---
+title: Sammy saves the snow
+viewport: width=device-width, initial-scale=1.0, user-scalable=yes
+---
 ![](https://github.com/NicoloDebiaggi/Esame-editoria-digitale/blob/main/progetto/images/SAMMY%20SAVES%20THE%20SNOW/1.jpg) \pagebreak
 ![](https://github.com/NicoloDebiaggi/Esame-editoria-digitale/blob/main/progetto/images/SAMMY%20SAVES%20THE%20SNOW/2.jpg) \pagebreak
 ![](https://github.com/NicoloDebiaggi/Esame-editoria-digitale/blob/main/progetto/images/SAMMY%20SAVES%20THE%20SNOW/3.jpg)\pagebreak
