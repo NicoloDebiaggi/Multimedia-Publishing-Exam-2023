@@ -15,9 +15,9 @@ L'obiettivo del lavoro è testare la capacità di un'intelligenza artificiale, (
 
 ## Pipeline delle dipendenze di produzione
 - Progetto \
-Google Trends |> ChatGPT |> Gencraft |> Canva |> Pandoc 
+Google Trends |> ChatGPT |> Gencraft |> Canva |> Visual Studio  Code |> Pandoc 
 - Relazione \
-Visual Studio Code |> stesura in linguaggio Markdown e Mermaid |> Pandoc |> Repository Github
+Visual Studio Code (stesura in linguaggio Markdown e implementazione del linguaggio Mermaid) |> Pandoc |> Repository Github
 
 ---
 
