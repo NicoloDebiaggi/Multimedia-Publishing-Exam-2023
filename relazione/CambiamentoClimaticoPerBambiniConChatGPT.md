@@ -39,7 +39,7 @@ Essendo un libro per bambini si potrebbero introdurre immagini all'interno del l
 
 Una volta soddisfatti con la stesura di ogni paragrafo si potranno unire insieme per un'ultima bozza per una revisione finale e, se necessario, ci sarà implementazione di nuovi contenuti.
 
-Per quanto riguarda lo stile grafico e le regole di impaginazione verranno usate quelle standard senza la definizione di elementi grafici avanzati ma rispettando i requisiti di accessibilità. Verrà utilizzato Canva per implementare le immagini generate da Gencraft e per sistemare altre opzioni grafiche come il font e la grandezza dei caratteri. Questa implementazione abbatte leggermente la parte di automazione del workflow ma permette di ottenere un risultato decisamente migliore a livello visivo.
+Per quanto riguarda lo stile grafico e le regole di impaginazione verranno usate quelle standard con l'inserimento di elementi grafici avanzati ma rispettando i requisiti di accessibilità. Verrà utilizzato Canva per implementare le immagini generate da Gencraft e per sistemare altre opzioni grafiche come il font e la grandezza dei caratteri. Questa implementazione abbatte leggermente la parte di automazione del workflow ma permette di ottenere un risultato decisamente migliore a livello visivo.
 
 Per la creazione del formato di distribuzione si potrà convertire il documento in epub e html tramite Pandoc in modo da poterlo fornire anche digitalmente e facilitarne l'automazione.
 
