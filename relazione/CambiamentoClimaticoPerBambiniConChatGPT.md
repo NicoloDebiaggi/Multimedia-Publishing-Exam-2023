@@ -25,7 +25,7 @@ L'obiettivo del lavoro è testare la capacità di un'intelligenza artificiale, (
 ## Processo di produzione
 
 Come primo passo ho individuato un argomento di tendenza nel cambiamento climatico attraverso l'utilizzo di siti come Google trends e altri simili. Ho poi ricercato i punti chiave del cambiamento climatico su vari siti internet e ho chiesto anche a ChatGPT stessa di fornirmi diverse idee per quanto riguardasse questa analisi del tema.
-Prima di passare alla fase di stesura ho effettuato delle ricerche per quanto riguarda la presenza di possibili competitor e ne ho trovati diversi a partire da quelli che richiamano la figura della nota attivista Greta Thunberg ad altri che utilizzano gli animali come principali protagonisti. Essendo un libro per bambini il target era già definito in partenza quindi il pubblico sarà stato dai 9 anni a salire.
+Prima di passare alla fase di stesura ho effettuato delle ricerche per quanto riguarda la presenza di possibili competitor e ne ho trovati diversi a partire da quelli che richiamano la figura della nota attivista Greta Thunberg ad altri che utilizzano gli animali come principali protagonisti. Essendo un libro per bambini il target era già definito in partenza.
 
 Per quanto riguarda un'ipotetica distribuzione non serve fare affidamento su delle grandi case editrici in quanto amazon fornisce la possibilità di auto pubblicare il proprio libro mantenendo i costi bassi dovendo pagare una percentuale ad Amazon stessa che si aggira sul 35% sul prezzo di vendita di ogni singolo libro. Questa scelta ci permette di non avere grosse quantità di copie invedute e, inoltre, ci permette di fare affidamento ad Amazon per quanto riguarda la spedizione.
 
